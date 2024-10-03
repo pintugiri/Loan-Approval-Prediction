@@ -17,6 +17,6 @@ Python is the primary programming language used in the code. It is widely used i
 
 such as:
 
-Pandas, Numpy for data manipulation.
-Matplotlib, Seaborn for data visualization.
-Scikit-learn, XGBoost, LightGBM, and CatBoost for machine learning.
+* Pandas, Numpy for data manipulation.
+* Matplotlib, Seaborn for data visualization.
+* Scikit-learn, XGBoost, LightGBM, and CatBoost for machine learning.
